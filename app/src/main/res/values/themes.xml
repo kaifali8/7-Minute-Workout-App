@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme._7MinutesWorkout" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="windowActionBar">false</item>
+    </style>
+    <style name="ToolbarTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorControlNormal">@color/toolbar_color_control_normal</item>
+    </style>
+    <style name="BMITheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorControlNormal">@color/toolbar_color_control_normal</item>
+    </style>
+</resources>
